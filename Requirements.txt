@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+torch
+gymnasium
+stable-baselines3
+scikit-learn
+matplotlib
+seaborn
+h5py
+tqdm
+fastdtw
+joblib
