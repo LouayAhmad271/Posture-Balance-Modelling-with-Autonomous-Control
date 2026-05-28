@@ -10,7 +10,9 @@ This repository contains code for learning human-like standing balance using **G
 ## Repository Structure
 .
 ├── README.md
+
 ├── LICENSE
+
 ├── requirements.txt
 ├── run.py # Main entry point (training + evaluation)
 ├── Enhanced_Agent.py # GAIL training with enhanced metrics
